@@ -6,7 +6,11 @@ The data folder contains patients_by_age.csv and patients.csv from the Week 1 Pr
 
 The script folder contains an empty .gitkeep file as a placeholder so that the folder could be committed.
 
+.dockerignore contains the files that should not be included within the Docker build.
+
 AI_USAGE.md contains information about any and all of the AI used to help complete this lab.
+
+Dockerfile contains the instructions for building a Docker container to reproduce the environment.
 
 environment.yml contains the Conda environment configuration needed to reproduce it from scratch.
 
@@ -30,3 +34,16 @@ Run the following command:
 Run the following command:
 
     conda activate hds-practical
+
+## Docker
+A dockerfile is included to create a contrainerized version of the environment.
+This was done as extra credit due to it being a graduate student requirement (I am an undergraduate).
+### Build the Docker image
+From the repository directory, run the following command:
+
+    docker build -t hds-practical
+
+### Run Docker container
+Run the following command:
+
+    docker run --rm hds-practical

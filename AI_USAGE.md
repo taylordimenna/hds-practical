@@ -1,2 +1,4 @@
 # AI Usage
 I used ChatGPT (GPT-5.6) to help download and set up Conda/Miniforge. It walked me through how to download it and then connect it to vs code to allow me to create the working environment.yml file. It gave me more than one way to go about this, so I ended up following one suggested way and rejected/didn't follow the others. It also gave me additonal suggestions on related things I could download, which I also rejected because they were not relevant to this lab.
+
+I also used GPT-5.6 to help me download Docker Desktop to complete the 'Containerize it' task for graduate students (I am an undergraduate doing it for extra credit). It gave a similar response as above when I used it to download Conda/Miniforge, providing multiple ways to do this. Similarly to above, I rejected many of the alternative suggestions and followed the most straightforward one.
