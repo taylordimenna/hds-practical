@@ -14,7 +14,7 @@ environment.yml contains the Conda environment configuration needed to reproduce
 ### 1. Clone the repository
 Clone this repository to your local computer.
 One way to do this would be to run the following command:
-git clone https://github.com/taylordimenna/hds-practical.git
+    git clone https://github.com/taylordimenna/hds-practical.git
 ### 2. Create the Conda environment
 Run the following command:
     conda env create -f environment.yml
