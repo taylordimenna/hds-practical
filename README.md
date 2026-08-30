@@ -1,4 +1,4 @@
-# HDS Practical
+# HDS Lab 1
 Contains my work for Lab 1: Reproducible Computing Setup
 
 ## Repository Contents
