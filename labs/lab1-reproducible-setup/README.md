@@ -3,7 +3,7 @@
 Contains my work for Lab 1: Reproducible Computing Setup
 
 ## Repository Contents
-The data folder contains patients_by_age.csv and patients.csv from the Week 1 Practical - Shell & Git Basics.
+The data folder contains an empty .gitkeep file as a placeholder so that the folder could be committed.
 
 The script folder contains an empty .gitkeep file as a placeholder so that the folder could be committed.
 
