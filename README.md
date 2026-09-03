@@ -3,10 +3,10 @@
 Contains all of my work for PUBH 4201
 
 ## Repository Contents
-### labs
+### ```labs/```
 Contains all of my lab work
-- The lab1-reproducible-setup folder contains all of my work for Lab 1: Reproducible Computing Setup.
+- ```lab1-reproducible-setup/``` contains all of my work for Lab 1: Reproducible Computing Setup.
 
-### practicals
+### ```practicals/```
 Contains all of my practical work
-- The practical1 folder contains all of my wok for Practical 1
+- ```practical1/```  contains all of my work for Practical 1.
