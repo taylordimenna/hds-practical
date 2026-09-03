@@ -2,20 +2,7 @@
 
 Contains my work for Lab 1: Reproducible Computing Setup
 
-## Repository Contents
-The data folder contains an empty .gitkeep file as a placeholder so that the folder could be committed.
-
-The script folder contains an empty .gitkeep file as a placeholder so that the folder could be committed.
-
-.dockerignore contains the files that should not be included within the Docker build.
-
-AI_USAGE.md contains information about any and all of the AI used to help complete this lab.
-
-Dockerfile contains the instructions for building a Docker container to reproduce the environment.
-
-environment.yml contains the Conda environment configuration needed to reproduce it from scratch.
-
-## Instructions to Clone Repo
+## Getting Started
 ### 1. Clone the repository
 Clone this repository to your local computer.
 
@@ -48,3 +35,16 @@ From the repository directory, run the following command:
 Run the following command:
 
     docker run --rm hds-practical
+
+## Repository Contents
+The data folder contains patients.csv from the practical during week 1.
+
+The script folder contains analyze.py from the practical during week 2.
+
+.dockerignore contains the files that should not be included within the Docker build.
+
+AI_USAGE.md contains information about any and all of the AI used to help complete this lab.
+
+Dockerfile contains the instructions for building a Docker container to reproduce the environment.
+
+environment.yml contains the Conda environment configuration needed to reproduce it from scratch.
